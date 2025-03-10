@@ -11,6 +11,7 @@ This is a simple drawing application built with PyQt6. Users can draw on the can
 - Smooth and interactive drawing experience with anti-aliasing.
 
 ## Screenshot
+![image](https://github.com/user-attachments/assets/6184ecb2-edae-4c1c-9d4d-fa9fc90061c1)
 
 ## Requirements
 Make sure you have the following installed:
